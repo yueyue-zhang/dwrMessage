@@ -1,0 +1,30 @@
+.banner {
+	position: fixed;
+	right: 2%;
+	bottom: 2%;
+	width: 200px;
+	height: 200px;
+	background-color: gainsboro;
+	display:none;
+}
+
+.msgTitle {
+	width: 200px;
+	height: 40px;
+	text-align: center;
+}
+
+.msgTitle span {
+	font-size: 28px;
+	line-height: 40px;
+}
+
+.msgContent {
+	width: 200px;
+	height: 150px;
+	margin-top: 10px;
+}
+
+.msgContent span {
+	font-size: 14px;
+}
